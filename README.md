@@ -7,7 +7,7 @@ I am:
 - 🇲🇦 Based In Morocco
 - 👔 Work at [x-hub.io](https://x-hub.io/)
 - 🤓 Technologist
-- [Blogger](https://aboullaite.me)
+- ✍️ [Blogger](https://aboullaite.me)
 - 🦞 Community catalyst
 - 🎙️ [GeeksBlaBLa](https://geeksblabla.com/) Creator
 - 🔊 Speaker
