@@ -7,8 +7,9 @@ I am:
 - 🇲🇦 Based In Morocco
 - 👔 Work at [x-hub.io](https://x-hub.io/)
 - 🤓 Technologist
+- [Blogger](https://aboullaite.me)
 - 🦞 Community catalyst
-- 🎙️ [GeeksBlaBLa](https://geeksblabla.com/) Co-creator
+- 🎙️ [GeeksBlaBLa](https://geeksblabla.com/) Creator
 - 🔊 Speaker
 - 😣 and many people struggle to pronounce my last name!
 
