@@ -5,7 +5,7 @@ You're probably wondering how a DJ 🎧 ended up using github! we'll I'm a Docke
 
 I am:
 - 🇲🇦 Based In Morocco
-- 👔 Work at [x-hub.io](https://x-hub.io/)
+- 👔 Work at Spotify
 - 🤓 Technologist
 - ✍️ [Blogger](https://aboullaite.me)
 - 🦞 Community catalyst
