@@ -7,6 +7,8 @@ I am:
 - 🇲🇦 Made In Morocco
 - 🇸🇪 Lost in Sweden
 - 👨🏽‍💻 Work at @Spotify
+- 🎖️ Java Champion
+- 👨🏽‍🔬 Google Developer Expert for Google cloud
 - 🤓 Technologist
 - ✍️ [Blogger](https://aboullaite.me)
 - 🦞 Community catalyst
